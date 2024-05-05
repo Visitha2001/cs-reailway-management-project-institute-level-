@@ -1,0 +1,16 @@
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\bin\Debug\AUD_AppRailWayVNR.exe.config
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\bin\Debug\AUD_AppRailWayVNR.exe
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\bin\Debug\AUD_AppRailWayVNR.pdb
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.csproj.AssemblyReference.cache
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.Form1.resources
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.Properties.Resources.resources
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.csproj.GenerateResource.cache
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.csproj.CoreCompileInputs.cache
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.exe
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.pdb
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppR.866525D8.Up2Date
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.Delete.resources
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.Update.resources
+C:\Users\visit\Desktop\sem4\API_VNR\AUD_AppRailWayVNR\AUD_AppRailWayVNR\obj\Debug\AUD_AppRailWayVNR.Login.resources

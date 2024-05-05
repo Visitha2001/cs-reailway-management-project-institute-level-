@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RailWayAPI_VNR.props" />
+</Project>

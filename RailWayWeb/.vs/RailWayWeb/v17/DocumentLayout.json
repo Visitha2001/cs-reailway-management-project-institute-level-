@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|c:\\users\\visit\\desktop\\sem4\\api_vnr\\railwayweb\\railwayweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|solutionrelative:railwayweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|c:\\users\\visit\\desktop\\sem4\\api_vnr\\railwayweb\\railwayweb\\models\\trainsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|solutionrelative:railwayweb\\models\\trainsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|c:\\users\\visit\\desktop\\sem4\\api_vnr\\railwayweb\\railwayweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD7EA14-ABA6-44E0-A584-D5C7DC2B9CC6}|RailWayWeb\\RailWayWeb.csproj|solutionrelative:railwayweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RailWayWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RailWayWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:37:59.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Models\\TrainsDTO.cs",
+              "RelativeDocumentMoniker": "RailWayWeb\\Models\\TrainsDTO.cs",
+              "ToolTip": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Models\\TrainsDTO.cs",
+              "RelativeToolTip": "RailWayWeb\\Models\\TrainsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:30:56.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RailWayWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\visit\\Desktop\\sem4\\API_VNR\\RailWayWeb\\RailWayWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RailWayWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T05:25:19.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
